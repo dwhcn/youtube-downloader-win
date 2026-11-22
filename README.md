@@ -25,3 +25,7 @@ Windows x64 图形下载器，支持把单个 YouTube 视频保存为 MP4 或 MP
 - `ffmpeg.exe` 和 `ffprobe.exe`，Windows Essentials 构建。[FFmpeg Windows 下载页](https://www.gyan.dev/ffmpeg/builds/)
 
 移动程序时，把同目录的 `tools` 文件夹一起带上。下载组件会读取 Windows 的系统代理设置。
+
+## 贡献者
+
+Codex 编写了图形下载器和组件安装脚本。[Codex 的 GitHub 主页](https://github.com/codex)
